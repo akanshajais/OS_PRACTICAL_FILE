@@ -2,7 +2,7 @@
  OS PRACTICAL FILE , Name - Akansha Jaiswal , Roll no . - 20201402 , Exam roll no. - 20020570003 
  
  
-                                                                      QUESTIONS 
+                                 QUESTIONS 
                         
                         
 1. Write a program (using fork() and/or exec() commands) where parent
@@ -32,6 +32,8 @@ scheduling algorithm.
 10.Write a program to implement preemptive priority based scheduling
 algorithm.
 11. Write a program to implement SJRF scheduling algorithm.
+
 12. Write a program to calculate sum of n numbers using thread library.
+
 13.Write a program to implement first-fit, best-fit and worst-fit
 allocation strategies.
